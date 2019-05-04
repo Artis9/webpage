@@ -1,0 +1,65 @@
+.mainbox{
+    background-color: #5f8e15;
+    width: 800px;
+    margin: 0 auto;
+}
+.menu{
+    background-color: #5f8e15 ;
+}
+
+.leftside{
+    background-color: #d6f586;
+    width: 100px;
+    float: left;
+}
+
+ .main{
+     background-color: #ebe6df;
+     width: 600px;
+     float: left;
+ }
+
+ .rightside{
+     background-color: #d6f586;
+     width: 100px;
+     float: left;
+ }
+
+ .footer{
+     position: fixed;
+     background: white;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     color: black;
+     font-size: xx-large;
+     text-align: center
+ }
+
+ .menu{
+     height: 34px;
+     text-align: center;
+ }
+
+ .menu>ul>li{
+     display: inline;
+     padding: 10px 10px 10px 10px;
+     background-color: #5f8e15;
+     position: relative;
+     top: 8px;
+     font-family: Tahoma serif;
+     font-size: 14px;
+ }
+
+ .menu>ul>li>a{
+     text-decoration: none;
+     color: moccasin;
+ }
+
+ .main mgallery{
+     text-align: center;
+ }
+
+ .gallery{
+     max-width: 120px;
+ }
